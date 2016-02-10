@@ -19,7 +19,21 @@ public class GEDCOM_Formatter {
 	private ArrayList<String> tag = new ArrayList<String>();
 	private ArrayList<String> Arguments = new ArrayList<String>();
 	private ArrayList<String> tagset = new  ArrayList<String>();
-
+	
+	//get Arguments, tag, level
+	ArrayList<String> getLevel()
+	{
+		return level;
+	}
+	ArrayList<String> getTag()
+	{
+		return tag;
+	}
+	ArrayList<String> getArguments()
+	{
+		return Arguments;
+	}
+	
 	//Read the information from given path (GEDCOM txt file) into variables 
 	public GEDCOM_Formatter(String path) throws IOException
 	{
@@ -32,6 +46,7 @@ public class GEDCOM_Formatter {
 		}
 		buffer.close();
 	}
+	//check and extract Arguments, tag, level from each lines
 	public void check() throws IOException
 	{
 		//read the properties for tag set
@@ -142,6 +157,7 @@ public class GEDCOM_Formatter {
 			}				
 		}
 	}
+	//for project 2
 	public void outPut(String path) throws IOException
 	{
 		File output = new File(path);
