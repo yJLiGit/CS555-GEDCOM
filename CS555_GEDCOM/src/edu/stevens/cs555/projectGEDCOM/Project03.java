@@ -14,7 +14,14 @@ public class Project03 {
 	private ArrayList<String> Arguments = new ArrayList<String>();
 	private ArrayList<Individual> individual = new ArrayList<Individual>();
 	private ArrayList<Family> family = new ArrayList<Family>();
-
+	
+	public ArrayList<Individual> getIndividual(){
+		return individual;
+	}
+	public ArrayList<Family> getFamily(){
+		return family;
+	}
+	
 	Project03(String path) throws IOException
 	{
 		GEDCOM_Formatter fm = new GEDCOM_Formatter(path);
