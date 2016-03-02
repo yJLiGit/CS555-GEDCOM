@@ -1,0 +1,9 @@
+Here are the output for Sprint1: 
+Error US01: Birth date:11 JAN 2017 of Wang /US01_error/ (@I8@) occurs after current date
+Error US01: death date:6 MAR 2017 of Wang /US01_error/ (@I8@) occurs after current date
+Error US01: marry date:7 JUL 2017 for the wife: Jennifer /US02_makeup/ (@I2@) and the husband : Wang /US01_error/ (@I8@)  in family : @F2@ occurs after current date
+Error US01: divorce date:3 APR 2017 for the wife: Jennifer /US02_makeup/ (@I2@) and the husband : Wang /US01_error/ (@I8@)  in family : @F2@ occurs after current date
+Error US02: birth date:26 JAN 1996 of Kuang /US02_error/ (@I9@) occurs after  his marriage date :11 JAN 1981
+Error US03: birth date:17 MAY 2001 of Liang /US03_error/ (@I10@) occurs after his/her death date :7 FEB 1991
+Error US04: marry date:7 JUL 2017 of family : @F2@ (husband : Wang /US01_error/ - @I8@, wife : Jennifer /US02_makeup/ - @I2@) occurs after their divorce date :3 APR 2017
+Error US04: marry date:11 MAY 2011 of family : @F5@ (husband : /Wen/ - @I3@, wife : Kai /US04_error/ - @I11@) occurs after their divorce date :8 JUN 1996
