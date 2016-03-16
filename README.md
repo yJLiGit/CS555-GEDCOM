@@ -16,3 +16,5 @@ contributed by Yijin Li, Since we have not figured out how to co-contributed to 
 Yijin Li help upload/commit Spring1_AnandparaNe.java for AnandparaNe
 
 Project 04_Sprint1 : Main and output data uploaded
+
+Project 06_Sprint2 : added US07 US10, update from Anandpara Ne
