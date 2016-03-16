@@ -1,0 +1,10 @@
+Here are the output for Sprint2: 
+Error US05: Marriage date:6 APR 2011 of the husband : US05_Error /Liang/ (@I17@) occurs after his death date : 8 JUN 2000 in family : @F1@
+Error US05: Marriage date:3 MAR 2013 of the wife : US05_Error /Krria/ (@I24@) occurs after her death date : 6 APR 2011 in family : @F18@
+Error US06: Divoice date:6 MAY 2015 of the husband : US06_error /Briaa/ (@I9@) occurs after his death date : 6 APR 2011 in family : @F3@
+Error US06: Divoice date:6 JUN 2015 of the wife : US06_Error /Wen/ (@I19@) occurs after her death date : 6 APR 2001 in family : @F16@
+Error US07: with a birth date:5 APR 1801 , US07_ErrorCur /Hang/ (@I21@), lived longer than 150 years old,as he/she is still alive currently
+Error US07: with a birth date:6 APR 1701 , US07_ErrorDea /Illizion/ (@I22@), lived longer than 150 years old,as his/her death date is 8 MAR 2001
+Error US10: Birth date:6 SEP 1991 of husband :Hang /US01_normal/ (@I12@), of family : @F10@ marry less than 14 years old,the marriage date is 6 MAY 1996
+Error US10: Birth date:8 APR 1986 of husband :Hong /Wen/ (@I18@), of family : @F16@ marry less than 14 years old,the marriage date is 8 MAR 1998
+Error US10: Birth date:6 MAY 2008 of wife :US10_Error /Lilon/ (@I23@), of family : @F17@ marry less than 14 years old,the marriage date is 6 APR 2011

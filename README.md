@@ -16,3 +16,10 @@ contributed by Yijin Li, Since we have not figured out how to co-contributed to 
 Yijin Li help upload/commit Spring1_AnandparaNe.java for AnandparaNe
 
 Project 04_Sprint1 : Main and output data uploaded
+
+Project 06_Sprint2 : added US07 US10, update from Anandpara Ne
+
+Project 06_Sprint2 : added US05 US06 (file : Sprint2_YijinLi.java), update from Yijin Li, 
+uploaded the test data : Testdata_for_P06_Sprint2.ged and result : P06_Sprint2_output.txt, 
+update main file : GEDCOM_Main.java for testing and generate output the output data
+
