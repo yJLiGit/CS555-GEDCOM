@@ -1,16 +1,21 @@
 package edu.stevens.cs555.projectGEDCOM;
 
+import java.util.ArrayList;
+
 public class Family implements Comparable{
 	private String ID;
 	private String Marr;
 	private String Husb;
 	private String Wife;
-	private String Chil;
+	private ArrayList<String> Chil;//ArrayList laster
 	private String Div;
 	//private String Date; //BIRT, DEAT , DIV, or MARR
 	/**
 	 * @return the marr
 	 */
+	public Family(){
+		Chil = new ArrayList<String>();
+	}
 	public String getMarr() {
 		return Marr;
 	}
@@ -59,14 +64,14 @@ public class Family implements Comparable{
 	/**
 	 * @return the chil
 	 */
-	public String getChil() {
+	public ArrayList<String> getChil() {
 		return Chil;
 	}
 	/**
 	 * @param chil the chil to set
 	 */
-	public void setChil(String chil) {
-		Chil = chil;
+	public void setChil(String str) {
+		Chil.add(str);
 	}
 	/**
 	 * @return the div

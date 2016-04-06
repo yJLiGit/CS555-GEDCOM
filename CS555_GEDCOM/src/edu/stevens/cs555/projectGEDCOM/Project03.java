@@ -111,6 +111,11 @@ public class Project03 {
 					tmpFa.setHusb(Arguments.get(i));
 
 				}
+				//children:
+				else if (tag.get(i).equals("CHIL")) {
+					tmpFa.getChil().add(new String(Arguments.get(i)));//Here later!!!!!!
+					//System.out.println(family.get(family.size() - 1).getChil().size());
+				}
 				//Date for family
 				else if (tag.get(i).equals("MARR"))
 				{

@@ -1,0 +1,7 @@
+Here are the output for Sprint3: 
+Error US16: Family : @F18@'s male members do not share the same last name, here are the male members:@I18@:US22_Individual /Wen/ @I25@:US16_Error /KKK/ @I18@:US22_Individual /Wen/ @I28@:US23 /Wen/ @I29@:US23 /Wen/ 
+Error US21: Family :@F1@'s Husband :@I2@:Jennifer /US02_makeup/'s geneder : F is not correct
+Error US21: Family :@F18@'s Wife :@I23@:US21_Error /Lilon/'s geneder : M is not correct
+Error US22: Family : @F15@ whose husbandID is @I17@ and wifeID is @I2@ has the same familyID with family : @F15@ whose husbandID is @I15@ and wifeID is @I6@
+Error US22: Individual : @I18@ whose name is Hong_US22_Family /Wen/ has the same individualID with indvidual : @I18@ whose name is US22_Individual /Wen/
+Error US23 : Individual :@I28@ whose Name:US23 /Wen/,Birth date:1 APR 1999 has the same name and birth date with Individual :@I29@ whose Name:US23 /Wen/,Birth date:1 APR 1999
