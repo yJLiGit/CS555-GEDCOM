@@ -1,0 +1,5 @@
+Here are the output for Sprint4: 
+Error US25: more than one children with same name and birth date in family :@F1@ , here is the conflict list: US25_ERROR /RALL/ with birth date: 6 JAN 2001 and id: @I3@, US25_ERROR /RALL/ with birth date: 6 JAN 2001 and id: @I4@,  for your information.
+Alert US29: here is the deceased list : US29_Example1 /RALL/ whose ID is @I6@ died on 6 APR 2015 , US29_Example2 /RALL/ whose ID is @I9@ died on 16 JUL 1997 , US36_Example1 /RALL/ whose ID is @I12@ died on 3 APR 2016 , US36_Example2 /RALL/ whose ID is @I13@ died on 7 APR 2016 , for your information
+Info US35: Here are the recent births in the last 30 days: ID :@I10@ whose name is US35_Example1 /RALL/ was borned on 1 APR 2016, ID :@I11@ whose name is US35_Example2 /RALL/ was borned on 2 APR 2016
+Info US36: Here are the recent deaths in the last 30 days: ID :@I12@ whose name is US36_Example1 /RALL/ was died on 3 APR 2016, ID :@I13@ whose name is US36_Example2 /RALL/ was died on 7 APR 2016
